@@ -1,0 +1,12 @@
+E:\ISM\ISMDatabase\Shop\bin\Debug\Shop.exe.config
+E:\ISM\ISMDatabase\Shop\bin\Debug\Shop.exe
+E:\ISM\ISMDatabase\Shop\bin\Debug\Shop.pdb
+E:\ISM\ISMDatabase\Shop\bin\Debug\EntityFramework.dll
+E:\ISM\ISMDatabase\Shop\bin\Debug\EntityFramework.SqlServer.dll
+E:\ISM\ISMDatabase\Shop\bin\Debug\EntityFramework.xml
+E:\ISM\ISMDatabase\Shop\bin\Debug\EntityFramework.SqlServer.xml
+E:\ISM\ISMDatabase\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+E:\ISM\ISMDatabase\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+E:\ISM\ISMDatabase\Shop\obj\Debug\Shop.csproj.CopyComplete
+E:\ISM\ISMDatabase\Shop\obj\Debug\Shop.exe
+E:\ISM\ISMDatabase\Shop\obj\Debug\Shop.pdb
